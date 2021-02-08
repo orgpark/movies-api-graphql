@@ -1,0 +1,8 @@
+{
+  "name": "movies-api-graphql",
+  "version": "1.0.0",
+  "description": "graphQL study",
+  "main": "index.js",
+  "repository": "git@github.com:orgpark-daily/movies-api-graphql.git",
+  "license": "MIT"
+}
